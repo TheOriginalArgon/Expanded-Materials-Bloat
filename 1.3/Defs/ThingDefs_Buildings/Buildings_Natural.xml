@@ -1,0 +1,302 @@
+﻿<Defs>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableAlluminium</defName>
+    <label>alluminium ore</label>
+    <description>Rock containing bits of alluminium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(254,254,254)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Alluminium</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableBeryllium</defName>
+    <label>beryllium ore</label>
+    <description>Rock containing bits of beryllium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(146,147,145)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Beryllium</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableBismuth</defName>
+    <label>bismuth ore</label>
+    <description>Rock containing bits of bismuth.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(167,167,167)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Bismuth</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableCalcium</defName>
+    <label>calcium ore</label>
+    <description>Rock containing bits of calcium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(250,250,250)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Calcium</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableCobalt</defName>
+    <label>cobalt ore</label>
+    <description>Rock containing bits of cobalt.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(96,100,133)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Cobalt</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableGalium</defName>
+    <label>galium ore</label>
+    <description>Rock containing bits of galium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(249,249,249)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Galium</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableMagnesium</defName>
+    <label>magnesium ore</label>
+    <description>Rock containing bits of magnesium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(232,237,239)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Magnesium</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableMercury</defName>
+    <label>mercury ore</label>
+    <description>Rock containing bits of mercury.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(187,184,178)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Mercury</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableNickel</defName>
+    <label>nickel ore</label>
+    <description>Rock containing bits of nickel.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(201,207,209)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Nickel</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineablePalladium</defName>
+    <label>palladium ore</label>
+    <description>Rock containing bits of palladium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(226,191,173)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Palladium</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineablePlatinum</defName>
+    <label>platinum ore</label>
+    <description>Rock containing bits of platinum.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(160,161,171)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Platinum</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableSilicon</defName>
+    <label>silicon ore</label>
+    <description>Rock containing bits of silicon.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(214,213,218)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Silicon</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+
+  <ThingDef ParentName="RockBase">
+    <defName>EM_MineableZinc</defName>
+    <label>zinc ore</label>
+    <description>Rock containing bits of zinc.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <colorTwo>(162,162,162)</colorTwo>
+      <color>(128,128,128)</color>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>900</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>EM_Zinc</mineableThing>
+      <mineableYield>50</mineableYield>
+      <mineableScatterCommonality>1.1</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>12~25</mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  
+</Defs>
